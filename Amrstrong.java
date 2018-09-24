@@ -1,5 +1,7 @@
 package arrayManipulation;
 
+
+//Armstrong method
 public class Amrstrong {
 
 	public static int cube(int n) {
